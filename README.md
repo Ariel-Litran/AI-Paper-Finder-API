@@ -46,10 +46,10 @@ streamlit run app.py
 ```
 
 ## Project Structure
-**ai-paper-finder/
-**app.py               # Main application code (UI and API logic)
-**.venv/               # Virtual environment (ignored in git)
-**README.md            # Project documentation
+ai-paper-finder/->
+app.py               # Main application code (UI and API logic)
+.venv/               # Virtual environment (ignored in git)
+README.md            # Project documentation
 
 ## Learned skills
 Building this project helped me understand how the web works behind the scenes. I learned how to build dynamic URLs with f-strings, how to make network requests, how to navigate complex JSON dictionaries, and why handling silent errors is crucial for a good user experience.
